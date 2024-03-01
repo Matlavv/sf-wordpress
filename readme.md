@@ -18,3 +18,9 @@ wp-env start
 ```
 http://localhost:8888
 ```
+
+### Connect in admin
+
+```
+http://localhost:8888/wp-admin
+```
